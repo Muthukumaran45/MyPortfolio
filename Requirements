@@ -1,0 +1,19 @@
+
+Install all these ..
+
+0) npm i node
+1) npm i react-router-dom
+2) npm i bootstrap
+3) npm i react-icons
+4) npm i react-router-hash-link
+5) npm i typewriter-effect
+
+
+
+To run...
+
+1) npm run dev
+
+To build fro production...
+
+1) npm run build
